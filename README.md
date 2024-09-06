@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React jS and Power BI
 - 💞️ I’m looking to collaborate on professional rol
 - 📫 reach me through e mail: saikiranreddynallavelli@gmail.com
-- 😄 My free time will be invested on You Tube
+- 😄 My free time will be invested on You Tube by doing vlogs, editing videos....
 
 
 <!---
